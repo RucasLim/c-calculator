@@ -1,0 +1,7 @@
+C:\Users\rhgus\source\repos\Rucas Cal\Rucas Cal\bin\Debug\Rucas Cal.exe.config
+C:\Users\rhgus\source\repos\Rucas Cal\Rucas Cal\bin\Debug\Rucas Cal.exe
+C:\Users\rhgus\source\repos\Rucas Cal\Rucas Cal\bin\Debug\Rucas Cal.pdb
+C:\Users\rhgus\source\repos\Rucas Cal\Rucas Cal\obj\Debug\Rucas Cal.csproj.AssemblyReference.cache
+C:\Users\rhgus\source\repos\Rucas Cal\Rucas Cal\obj\Debug\Rucas Cal.csproj.CoreCompileInputs.cache
+C:\Users\rhgus\source\repos\Rucas Cal\Rucas Cal\obj\Debug\Rucas Cal.exe
+C:\Users\rhgus\source\repos\Rucas Cal\Rucas Cal\obj\Debug\Rucas Cal.pdb
